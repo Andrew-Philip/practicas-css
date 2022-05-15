@@ -1,4 +1,8 @@
 console.log('guasa')
 
 
-consoel.log('alohas')
+console.log('alohas')
+
+const pruebaPro = () => {
+    alert('holiwis')
+}
